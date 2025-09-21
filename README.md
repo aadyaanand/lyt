@@ -24,20 +24,6 @@ VoltLoop is a comprehensive iOS application that helps users track battery healt
 - **Battery Safety Auto-Flag**: Blocks unsafe or recalled models
 - **Verified Donor/Receiver Tags**: Email/school/org verification system
 
-## 🎨 Design System
-
-### Color Palette
-- **Jet Black**: #050000 (Base)
-- **White**: #FFFFFF (Primary text/icons)
-- **Electric Blue**: #6e9ec4 (Active states, borders)
-- **Burnt Orange**: #ff3700 (Alerts, emergency)
-- **Soft Yellow**: #fee4a3 (Warm accent)
-
-### Typography
-- **Font**: SF Pro / Inter, sans-serif
-- **Headers**: Bold, Title Case
-- **Body**: Medium or Light
-- **System Notes**: Extra Light grey
 
 ## 🛠 Technical Stack
 
@@ -266,12 +252,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for various libraries and tools
 - Environmental organizations for battery recycling guidelines
 
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Email: support@voltloop.app
-- Documentation: [docs.voltloop.app](https://docs.voltloop.app)
 
 ## 🔄 Changelog
 
